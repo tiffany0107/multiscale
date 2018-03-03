@@ -1,0 +1,98 @@
+/home/ywang/anaconda2/lib/python2.7/site-packages/torchvision/transforms/transforms.py:156: UserWarning: The use of the transforms.Scale transform is deprecated, please use transforms.Resize instead.
+  "please use transforms.Resize instead.")
+  + Number of params: 35376696
+Train Epoch: 0.00 [128/1281167 (0%)]	Loss: 7.000834	Error: 100.000000
+Train Epoch: 0.00 [256/1281167 (0%)]	Loss: 7.060553	Error: 100.000000
+Train Epoch: 0.00 [384/1281167 (0%)]	Loss: 7.092330	Error: 99.218750
+Train Epoch: 0.00 [512/1281167 (0%)]	Loss: 7.060120	Error: 100.000000
+Train Epoch: 0.00 [640/1281167 (0%)]	Loss: 7.039206	Error: 100.000000
+Train Epoch: 0.00 [768/1281167 (0%)]	Loss: 7.024245	Error: 100.000000
+Train Epoch: 0.00 [896/1281167 (0%)]	Loss: 7.013450	Error: 100.000000
+Train Epoch: 0.00 [1024/1281167 (0%)]	Loss: 7.007874	Error: 100.000000
+Train Epoch: 0.00 [1152/1281167 (0%)]	Loss: 7.383747	Error: 100.000000
+Train Epoch: 0.00 [1280/1281167 (0%)]	Loss: 7.391389	Error: 99.218750
+Train Epoch: 0.00 [1408/1281167 (0%)]	Loss: 7.381318	Error: 100.000000
+Train Epoch: 0.00 [1536/1281167 (0%)]	Loss: 7.490560	Error: 99.218750
+Train Epoch: 0.00 [1664/1281167 (0%)]	Loss: 7.318467	Error: 100.000000
+Train Epoch: 0.00 [1792/1281167 (0%)]	Loss: 7.446011	Error: 100.000000
+Train Epoch: 0.00 [1920/1281167 (0%)]	Loss: 7.377218	Error: 100.000000
+Train Epoch: 0.00 [2048/1281167 (0%)]	Loss: 7.394831	Error: 100.000000
+Train Epoch: 0.00 [2176/1281167 (0%)]	Loss: 7.377689	Error: 100.000000
+Train Epoch: 0.00 [2304/1281167 (0%)]	Loss: 7.320570	Error: 99.218750
+Train Epoch: 0.00 [2432/1281167 (0%)]	Loss: 7.480926	Error: 100.000000
+Train Epoch: 0.00 [2560/1281167 (0%)]	Loss: 7.842467	Error: 100.000000
+Train Epoch: 0.00 [2688/1281167 (0%)]	Loss: 7.495521	Error: 100.000000
+Train Epoch: 0.00 [2816/1281167 (0%)]	Loss: 7.434842	Error: 100.000000
+Train Epoch: 0.00 [2944/1281167 (0%)]	Loss: 7.441295	Error: 100.000000
+Train Epoch: 0.00 [3072/1281167 (0%)]	Loss: 7.465774	Error: 100.000000
+Train Epoch: 0.00 [3200/1281167 (0%)]	Loss: 7.796467	Error: 100.000000
+Train Epoch: 0.00 [3328/1281167 (0%)]	Loss: 7.821552	Error: 100.000000
+Train Epoch: 0.00 [3456/1281167 (0%)]	Loss: 7.791259	Error: 100.000000
+Train Epoch: 0.00 [3584/1281167 (0%)]	Loss: 7.782815	Error: 99.218750
+Train Epoch: 0.00 [3712/1281167 (0%)]	Loss: 7.635661	Error: 100.000000
+Train Epoch: 0.00 [3840/1281167 (0%)]	Loss: 7.753936	Error: 100.000000
+Train Epoch: 0.00 [3968/1281167 (0%)]	Loss: 7.971181	Error: 99.218750
+Train Epoch: 0.00 [4096/1281167 (0%)]	Loss: 7.834057	Error: 100.000000
+Train Epoch: 0.00 [4224/1281167 (0%)]	Loss: 7.999007	Error: 99.218750
+Train Epoch: 0.00 [4352/1281167 (0%)]	Loss: 8.941971	Error: 100.000000
+Train Epoch: 0.00 [4480/1281167 (0%)]	Loss: 8.681396	Error: 100.000000
+Train Epoch: 0.00 [4608/1281167 (0%)]	Loss: 8.659649	Error: 100.000000
+Train Epoch: 0.00 [4736/1281167 (0%)]	Loss: 9.056079	Error: 100.000000
+Train Epoch: 0.00 [4864/1281167 (0%)]	Loss: 8.120291	Error: 100.000000
+Train Epoch: 0.00 [4992/1281167 (0%)]	Loss: 8.036904	Error: 100.000000
+Train Epoch: 0.00 [5120/1281167 (0%)]	Loss: 7.848750	Error: 100.000000
+Train Epoch: 0.00 [5248/1281167 (0%)]	Loss: 8.188040	Error: 98.437500
+Train Epoch: 0.00 [5376/1281167 (0%)]	Loss: 8.093022	Error: 100.000000
+Train Epoch: 0.00 [5504/1281167 (0%)]	Loss: 7.794695	Error: 100.000000
+Train Epoch: 0.00 [5632/1281167 (0%)]	Loss: 8.038251	Error: 99.218750
+Train Epoch: 0.00 [5760/1281167 (0%)]	Loss: 8.262222	Error: 100.000000
+Train Epoch: 0.00 [5888/1281167 (0%)]	Loss: 9.838943	Error: 100.000000
+Train Epoch: 0.00 [6016/1281167 (0%)]	Loss: 7.762667	Error: 100.000000
+Train Epoch: 0.00 [6144/1281167 (0%)]	Loss: 7.960096	Error: 100.000000
+Train Epoch: 0.00 [6272/1281167 (0%)]	Loss: 7.841461	Error: 100.000000
+Train Epoch: 0.00 [6400/1281167 (0%)]	Loss: 7.894450	Error: 100.000000
+Train Epoch: 0.00 [6528/1281167 (0%)]	Loss: 7.799071	Error: 100.000000
+Train Epoch: 0.00 [6656/1281167 (1%)]	Loss: 8.354092	Error: 100.000000
+Train Epoch: 0.00 [6784/1281167 (1%)]	Loss: 9.283078	Error: 99.218750
+Train Epoch: 0.00 [6912/1281167 (1%)]	Loss: 7.815086	Error: 100.000000
+Train Epoch: 0.00 [7040/1281167 (1%)]	Loss: 8.165421	Error: 99.218750
+Train Epoch: 0.00 [7168/1281167 (1%)]	Loss: 7.572891	Error: 100.000000
+Train Epoch: 0.00 [7296/1281167 (1%)]	Loss: 7.840782	Error: 100.000000
+Train Epoch: 0.00 [7424/1281167 (1%)]	Loss: 8.258370	Error: 100.000000
+Train Epoch: 0.00 [7552/1281167 (1%)]	Loss: 8.028428	Error: 100.000000
+Train Epoch: 0.00 [7680/1281167 (1%)]	Loss: 7.913297	Error: 100.000000
+Train Epoch: 0.00 [7808/1281167 (1%)]	Loss: 8.183466	Error: 100.000000
+Train Epoch: 0.00 [7936/1281167 (1%)]	Loss: 7.996126	Error: 100.000000
+Train Epoch: 0.00 [8064/1281167 (1%)]	Loss: 7.969468	Error: 99.218750
+Train Epoch: 0.00 [8192/1281167 (1%)]	Loss: 7.874612	Error: 100.000000
+Train Epoch: 0.00 [8320/1281167 (1%)]	Loss: 8.406963	Error: 100.000000
+Train Epoch: 0.00 [8448/1281167 (1%)]	Loss: 8.771002	Error: 100.000000
+Train Epoch: 0.00 [8576/1281167 (1%)]	Loss: 8.495525	Error: 100.000000
+Train Epoch: 0.00 [8704/1281167 (1%)]	Loss: 8.309874	Error: 100.000000
+Train Epoch: 0.00 [8832/1281167 (1%)]	Loss: 8.286727	Error: 100.000000
+Train Epoch: 0.00 [8960/1281167 (1%)]	Loss: 8.232074	Error: 100.000000
+Train Epoch: 0.00 [9088/1281167 (1%)]	Loss: 8.208632	Error: 100.000000
+Train Epoch: 0.00 [9216/1281167 (1%)]	Loss: 7.983721	Error: 100.000000
+Train Epoch: 0.00 [9344/1281167 (1%)]	Loss: 10.350882	Error: 100.000000
+Train Epoch: 0.00 [9472/1281167 (1%)]	Loss: 8.517838	Error: 100.000000
+Train Epoch: 0.00 [9600/1281167 (1%)]	Loss: 8.385777	Error: 100.000000
+Train Epoch: 0.00 [9728/1281167 (1%)]	Loss: 7.914134	Error: 100.000000
+Train Epoch: 0.00 [9856/1281167 (1%)]	Loss: 9.082396	Error: 99.218750
+Train Epoch: 0.00 [9984/1281167 (1%)]	Loss: 8.722109	Error: 99.218750
+Train Epoch: 0.00 [10112/1281167 (1%)]	Loss: 8.125588	Error: 100.000000
+Train Epoch: 0.00 [10240/1281167 (1%)]	Loss: 7.771622	Error: 100.000000
+Train Epoch: 0.00 [10368/1281167 (1%)]	Loss: 9.769224	Error: 99.218750
+Train Epoch: 0.00 [10496/1281167 (1%)]	Loss: 9.343089	Error: 100.000000
+Train Epoch: 0.00 [10624/1281167 (1%)]	Loss: 8.104996	Error: 100.000000
+Traceback (most recent call last):
+  File "train.py", line 192, in <module>
+    main()
+  File "train.py", line 113, in main
+    train(args, epoch, net, train_loader, criterion, optimizer, trainF)
+  File "train.py", line 141, in train
+    loss.backward()
+  File "/home/ywang/anaconda2/lib/python2.7/site-packages/torch/autograd/variable.py", line 167, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, retain_variables)
+  File "/home/ywang/anaconda2/lib/python2.7/site-packages/torch/autograd/__init__.py", line 99, in backward
+    variables, grad_variables, retain_graph)
+RuntimeError: torch/csrc/autograd/input_buffer.cpp:14: add: Assertion `pos >= 0 && pos < buffer.size()` failed.
